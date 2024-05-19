@@ -10,8 +10,12 @@ Install dependencies: flutter pub get
 Run the app: flutter run
 
 ## Dependencies
-GetX - State management and dependency injection.
-Http - For making HTTP requests to the weather API.
-Intl - Internationalization and formatting of dates.
-Geolocator - Getting device location.
-Geocoding - Getting latitude and longitude from address.
+1.) GetX - State management and dependency injection.
+
+2.) Http - For making HTTP requests to the weather API.
+
+3.) Intl - Internationalization and formatting of dates.
+
+4.) Geolocator - Getting device location.
+
+5.) Geocoding - Getting latitude and longitude from address.
