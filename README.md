@@ -1,21 +1,39 @@
-# weatherapp
+# WeatherApp
 
-A new Flutter project.
+A Flutter project!!!
 
 ## Getting Started
-Follow these steps to get the app up and running:
 
-Clone the repository: git clone https://github.com/jeelshah911/weatherapp.git
-Install dependencies: flutter pub get
-Run the app: flutter run
+To get started with the WeatherApp, follow these steps:
+
+- **Clone the repository**:
+  - `git clone https://github.com/jeelshah911/weatherapp.git`
+
+- **Install dependencies**:
+  - Navigate to the project directory:
+    - `cd weatherapp`
+  - Run the following command:
+    - `flutter pub get`
+
+- **Run the app**:
+  - Execute the command:
+    - `flutter run`
 
 ## Dependencies
-1.) GetX - State management and dependency injection.
 
-2.) Http - For making HTTP requests to the weather API.
+This project uses the following dependencies:
 
-3.) Intl - Internationalization and formatting of dates.
-
-4.) Geolocator - Getting device location.
-
-5.) Geocoding - Getting latitude and longitude from address.
+- **GetX**:
+  - State management and dependency injection.
+  
+- **Http**:
+  - For making HTTP requests to the weather API.
+  
+- **Intl**:
+  - For internationalization and formatting of dates.
+  
+- **Geolocator**:
+  - For getting the device location.
+  
+- **Geocoding**:
+  - For converting an address to latitude and longitude.
